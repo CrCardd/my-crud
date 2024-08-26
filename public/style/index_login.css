@@ -1,0 +1,7 @@
+input[type=text], input[type=password], input[type=date]{
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    background-color: transparent;
+    color: white;
+  }
